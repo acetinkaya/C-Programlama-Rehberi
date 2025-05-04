@@ -5,3 +5,6 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 🎯 Hedef Kitle
 
 * C diline yeni başlayan öğrenciler
+
+* C programlama dilini öğrenmek isteyen herkes
+
