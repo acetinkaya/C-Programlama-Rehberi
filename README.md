@@ -10,11 +10,13 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 * Gömülü sistem uygulamalarında algoritma geliştirmeyi ve programlamaya ilgi duyan tüm geliştiriciler. 
 
-📘  Neler Bulacaksınız?
+# 📘 Ders İçeriği:
 
-* ABC
+1. C Programlama Diline Genel Bakış
 
-* CDE
+- C Nedir? 
+
+----
 
 ## 📖 Kaynak Kitaplar
 
