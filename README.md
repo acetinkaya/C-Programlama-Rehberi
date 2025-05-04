@@ -1,4 +1,4 @@
 # C-Programlama-Rehberi
 
-Bu repo, C programlama dili üzerine hazırlanmış
+Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. 
 
