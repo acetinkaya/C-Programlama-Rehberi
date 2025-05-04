@@ -20,4 +20,6 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 ## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
 
-IEEE--> A. Cetinkaya, "Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi" GitHub, [Online]. 
+IEEE--> A. Cetinkaya, "Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi" GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi. Son Erişim Tarihi: Gün Ay Yıl.
+
+
