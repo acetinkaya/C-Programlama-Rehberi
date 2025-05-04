@@ -28,7 +28,7 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 5. Dr. Erdal Güvenoğlu, "Çözümlü C Örnekleri", Nobel Akademik Yayıncılık, Ankara, 2022.
 
-6. Prof. Dr. Fatih Başçiftçi, 
+6. Prof. Dr. Fatih Başçiftçi, "C Programlama Dİli", 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
