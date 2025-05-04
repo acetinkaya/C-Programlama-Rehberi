@@ -35,4 +35,8 @@ Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
 
 Yazar ve Güncelleme Yapan: [Öğr. Gör. Ali Çetinkaya (MSc.)](https://github.com/acetinkaya) - 2025
 
+---
+
+The above information, images, and code examples are shared as open-source content on GitHub under the "acetinkaya" account.
+
 
