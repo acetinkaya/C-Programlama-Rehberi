@@ -16,6 +16,11 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 * CDE
 
+## 📖 Önerilen Kaynak Kitaplar
+
+
+⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
