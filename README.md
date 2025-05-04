@@ -39,5 +39,7 @@ Yazar ve Güncelleme Yapan: [Öğr. Gör. Ali Çetinkaya (MSc.)](https://github.
 
 The above information, images, and code examples are shared as open-source content on GitHub under the "acetinkaya" account.
 
-Project Status: The relevant posts and software codes written in the Python programming language will be updated as new versions are released. 
+Project Status: The relevant posts and software codes written in the Python programming language will be updated as new versions are released. You can support my work by giving a star to the repository on GitHub. Knowledge grows and develops as it is shared.
+
+
 
