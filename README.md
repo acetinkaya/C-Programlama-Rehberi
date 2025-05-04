@@ -44,5 +44,4 @@ Contributing: Forks and pull requests are warmly welcomed. For major changes, pl
 
 Author and Maintainer: [Lect. Ali Cetinkaya (MSc.)](https://github.com/acetinkaya) - 2025
 
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
