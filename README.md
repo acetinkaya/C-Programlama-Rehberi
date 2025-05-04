@@ -12,7 +12,7 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 # 📘 Ders İçeriği:
 
-1. C Programlama Diline Genel Bakış
+## 1. C Programlama Diline Genel Bakış
 
 - C Nedir? 
 
