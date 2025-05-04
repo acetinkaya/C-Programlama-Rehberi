@@ -22,7 +22,8 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 2. Prof. Dr. Ercan Nurcan Yılmaz, Dr. Serkan Gönen, "Örneklerle Uygulamalı C ve C++", İstanbul Gelişim Üniversitesi Yayınları, İstanbul, 2023.
 
-3. Nergiz Ercil Çağıltay, Gül Tokdemir, 
+3. Nergiz Ercil Çağıltay, Gül Tokdemir, C. Fügen Selbes, Çiğdem Turhan,
+
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
