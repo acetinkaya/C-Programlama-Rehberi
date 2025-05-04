@@ -18,7 +18,8 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 ## 📖 Önerilen Kaynak Kitaplar
 
-1. Harvey M. Deithel, 
+1. Harvey M. Deithel, Paul J. Deitel,  "C ve C++", 
+
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
