@@ -18,7 +18,7 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
   
 -> Yüksek seviyeli, makine diline yakın, hızlı ve verimli bir programlama dilidir.
 
-
+- C Programlama Dili Nerelerde 
 
 
 
