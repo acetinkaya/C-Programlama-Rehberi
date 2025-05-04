@@ -26,7 +26,7 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 4. Nergiz Ercil Çağıltay, Gül Tokdemir, C. Fügen Selbes, Çiğdem Turhan, "C Dersi Çözümlü Problem Kitabı", Ankara, 2012.
 
-5. Dr. Erdal Güvenoğlu, 
+5. Dr. Erdal Güvenoğlu, "Çözümlü C Örnekleri", 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
