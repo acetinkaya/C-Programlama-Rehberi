@@ -22,6 +22,8 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 -> İşletim sistemleri (Linux, Windows'un çekirdek işlem bölümleri), gömülü sistemler, algoritma geliştirme, donanım sürücüleri.
 
+•	İlk C Programı:
+
 
 
 
