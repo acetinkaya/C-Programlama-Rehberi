@@ -20,7 +20,9 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 - C Programlama Dili Nerelerde Kullanılır?
 
--> İşletim sistemleri (Linux, Windows'un çekirdek işlem bölümleri), 
+-> İşletim sistemleri (Linux, Windows'un çekirdek işlem bölümleri), gömülü sistemler, algoritma geliştirme, donanım sürücüleri.
+
+
 
 
 
