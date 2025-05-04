@@ -8,4 +8,5 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 * C programlama dilini öğrenmek isteyen herkes
 
-* Gömülü sistem uygulamalarında algoritma geliştirmeyi ve 
+* Gömülü sistem uygulamalarında algoritma geliştirmeyi ve programlamaya ilgi duyan tüm geliştiriciler. 
+
