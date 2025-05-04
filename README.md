@@ -26,7 +26,10 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
     #include <stdio.h>
     int main() 
-
+    {
+        printf("Merhaba Hayat\n");
+        return 0;
+    }
 
 
 
