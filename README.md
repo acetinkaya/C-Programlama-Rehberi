@@ -28,4 +28,6 @@ APA--> Cetinkaya, A. (2024). Python + Google Colab: Algoritmalar ve Veri Yapıla
 
 Yukarıdaki bilgi, resim ve kod çalışmaları açık kaynak paylaşım olarak GitHub "acetinkaya" alanında paylaşımı yapılmıştır.
 
-Proje Durumu: 
+Proje Durumu: İlgili paylaşımlar ve Python programlama dilinde yazılmış yazılım kodlarına sürüm güncellemeleri yaptıkça bu paylaşımları güncelleyeceğiz. GitHub bölümünden beğeni bildirimi olarak bir yıldız vererek çalışmalarımı destekleyebilirsiniz. Bilgi paylaşıldıkça büyür ve gelişir.
+
+Katkıda Bulunma: Fork - Çekme istekleri memnuniyetle karşılanır. 
