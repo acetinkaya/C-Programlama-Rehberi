@@ -14,7 +14,11 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 ## 1. C Programlama Diline Genel Bakış
 
-- C Nedir? 
+- C Nedir?
+  
+-> Yüksek seviyeli, 
+
+
 
 ----
 
