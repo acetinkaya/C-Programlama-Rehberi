@@ -20,7 +20,7 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 1. Harvey M. Deithel, Paul J. Deitel,  "C ve C++", Sistem Yayıncılık, İstanbul, 2011.
 
-
+2. Prof. Dr. Ercan Nurcan Yılmaz,
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
