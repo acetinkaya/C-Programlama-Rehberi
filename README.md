@@ -18,3 +18,6 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
+
+IEEE--> A. Cetinkaya,
