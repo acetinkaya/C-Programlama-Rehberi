@@ -22,7 +22,7 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 IEEE--> A. Cetinkaya, "Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi" GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi. Son Erişim Tarihi: Gün Ay Yıl.
 
-APA--> Cetinkaya, A. (2024). Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi [GitHub Deposu]. GitHub. Erişim Linki: https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi. Son Erişim Tarihi: Gün Ay Yıl.
+APA--> Cetinkaya, A. (2024). Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi [GitHub Deposu]. GitHub. Erişim Linki: https://github.com/acetinkaya/C-Programlama-Rehberi. Son Erişim Tarihi: Gün Ay Yıl.
 
 ---
 
