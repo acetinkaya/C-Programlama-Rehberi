@@ -12,7 +12,9 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 # 📘 Ders Video İçerikleri:
 
-https://youtu.be/uJD-iz-rm0Q
+C Programlama Dili Konu Anlatımı - 1 Videosu :> https://youtu.be/uJD-iz-rm0Q
+
+Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb57Damw
 
 # 📘 Ders İçerikleri:
 
