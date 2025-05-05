@@ -57,6 +57,7 @@ int carpim = 4 * 2; // 8
 
 3.2 Karşılaştırma Operatörleri
 
+if (a == b) { printf("Esittir\n"); }
 
 ----
 
