@@ -95,7 +95,19 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
       ---
 
-      
+      int yas = 20;
+      int puan = 85;
+  
+      if (yas >= 18 && puan >= 80) 
+      {
+          printf("Sınava girmeye uygunsunuz.\n");
+      } 
+      else 
+      {
+          printf("Şartları sağlamıyorsunuz.\n");
+      }
+
+      ---
 
 4.2 switch-case Yapısı
 
