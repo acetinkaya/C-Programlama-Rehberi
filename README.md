@@ -61,6 +61,8 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 
 3.3 Mantıksal Operatörler
+if (a > 0 && b > 0) { printf("Pozitif sayilar\n"); }
+
 
 
 
