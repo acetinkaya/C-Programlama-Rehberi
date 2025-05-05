@@ -141,7 +141,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 6.1 Tek Boyutlu Dizi
 
     int sayilar[5] = {1, 2, 3, 4, 5};
-    
+    printf("%d", sayilar[2]); // 3
     
 ----
 
