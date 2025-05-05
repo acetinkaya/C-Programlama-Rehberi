@@ -76,6 +76,10 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     
     if (a > 0 && b > 0) { printf("Pozitif sayilar\n"); }
 
+    --
+    
+
+
 4. Kontrol Yapıları
 
 4.1 Koşullu İfadeler
@@ -88,6 +92,10 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
       {
           printf("Cocuk.\n");
       }
+
+      ---
+
+      
 
 4.2 switch-case Yapısı
 
