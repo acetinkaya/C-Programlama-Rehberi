@@ -136,6 +136,9 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
         printf("%d", sonuc);
     }
 
+6. Diziler
+
+
     
 ----
 
