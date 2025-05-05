@@ -156,7 +156,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
         printf("x  değeri : %d\n",  x);   // 42
         printf("&x adresi : %p\n", &x);   // Örn. 0x7ffd5c1e5b3c
         printf("p  adresi : %p\n",  p);   // Aynı adres → &x
-
+        printf("*p değeri : %d\n", *p);   // 42 (dereference)  
 
    
 ----
