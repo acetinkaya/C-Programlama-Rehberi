@@ -234,6 +234,10 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
         printf("Bir sayı girin: ");
         sonuc = scanf("%d", &sayi);
     
+        if (sonuc == 1) 
+        {
+            if (sayi % 2 == 0) 
+            {
 
     
     }
