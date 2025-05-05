@@ -76,6 +76,8 @@ if (a > 0 && b > 0) { printf("Pozitif sayilar\n"); }
           printf("Cocuk.\n");
       }
 
+4.2 switch-case Yapısı
+
 
 ----
 
