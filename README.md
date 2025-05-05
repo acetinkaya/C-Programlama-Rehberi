@@ -200,6 +200,11 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 8.1. Kullanıcı Girdisinin Doğruluğunu scanf() ile Kontrol Etme
 
+    #include <stdio.h>
+    
+    int main()
+    {
+    	
 
 
 
