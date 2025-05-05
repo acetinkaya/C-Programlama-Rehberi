@@ -85,6 +85,9 @@ if (a > 0 && b > 0) { printf("Pozitif sayilar\n"); }
       default: printf("Gecersiz gun");     
     }
 
+4.3 Döngüler
+
+
 
 ----
 
