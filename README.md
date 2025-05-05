@@ -211,19 +211,26 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     
     sonuc = scanf("%d", &sayi);
     
-    if (sonuc == 1) 
-    {
-        printf("Girilen sayi: %d\n", sayi);
-    } 
-    else 
-    {
-        printf("Gecersiz karakter girisi yaptiniz.\n");
-    }
+        if (sonuc == 1) 
+        {
+            printf("Girilen sayi: %d\n", sayi);
+        } 
+        else 
+        {
+            printf("Gecersiz karakter girisi yaptiniz.\n");
+        }
     
     }
 
-8.1. Girilen Bir Sayının Tek mi Çift mi Olduğunu Bulma..
+8.3. Girilen Bir Değerin Sayı Olduğu Kontrol Edildikten Sonra Tek mi Çift mi Olduğunu Bulma
 
+    #include <stdio.h>
+    
+    int main()
+    {
+        int sayi = 0;
+        int sonuc;
+    
 
 
 ----
