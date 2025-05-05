@@ -160,6 +160,9 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 7. C Programlama Dili Kütüphaneleri
 
+| Başlık (header)   | Ana İşlev Grubu         | Sık Kullanılan Fonksiyonlar*                                    | Kısaca Ne Yapar                                                                 |
+|-------------------|--------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| `<stdio.h>`       | Girdi / Çıktı            | `printf`, `scanf`, `fprintf`, `fgets`, `fgetc`, `fputc`, `fseek`, `rewind`      | Dosya ve ekran/klavye akışlarını biçimlendirilmiş olarak yönetir.               |
 
    
 ----
