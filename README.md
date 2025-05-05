@@ -163,6 +163,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 | Başlık (header)   | Ana İşlev Grubu         | Sık Kullanılan Fonksiyonlar*                                    | Kısaca Ne Yapar                                                                 |
 |-------------------|--------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | `<stdio.h>`       | Girdi / Çıktı            | `printf`, `scanf`, `fprintf`, `fgets`, `fgetc`, `fputc`, `fseek`, `rewind`      | Dosya ve ekran/klavye akışlarını biçimlendirilmiş olarak yönetir.               |
+| `<stdlib.h>`      | Yardımcı & Bellek        | `malloc`, `calloc`, `realloc`, `free`, `atoi`, `atof`, `strtol`, `rand`, `srand`, `exit`, `system` | Dinamik bellek, sayı–metin dönüşümü, rastgele sayı, proses kontrolü.            |
 
    
 ----
