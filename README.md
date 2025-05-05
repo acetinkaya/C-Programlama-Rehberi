@@ -46,7 +46,7 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
       float sicaklik = 36.5;
       char harf = 'A';
       #define PI 3.14
-
+      const int GUN_SAYISI = 7;
 
 
 ----
