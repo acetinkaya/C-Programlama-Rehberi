@@ -220,11 +220,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
         printf("Gecersiz karakter girisi yaptiniz.\n");
     }
     
-    
     }
-
-
-
 
 8.1. Girilen Bir Sayının Tek mi Çift mi Olduğunu Bulma..
 
