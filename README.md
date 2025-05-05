@@ -222,6 +222,17 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     
     }
 
+8.2. Girilen Bir Sayının Tek mi Çift mi Olduğunu Bulma
+
+    
+    #include <stdio.h>
+    
+    int main()
+    {
+        int sayi;
+    
+
+
 8.3. Girilen Bir Değerin Sayı Olduğu Kontrol Edildikten Sonra Tek mi Çift mi Olduğunu Bulma
 
     #include <stdio.h>
