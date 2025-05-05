@@ -31,6 +31,9 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
         return 0;
     }
 
+2.1 Yorum Satırları
+
+
 
 
 ----
