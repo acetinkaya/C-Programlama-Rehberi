@@ -1,5 +1,7 @@
 # C Programlama Dili Rehberi
 
+https://github.com/acetinkaya/C-Programlama-Rehberi/blob/main/kapak2.png
+
 Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konulardan ileri düzey uygulamalara kadar adım adım ilerleyen örneklerle, C programlama dilini öğrenme sürecinizi kolaylaştırmayı amaçlamaktayım.
 
 🎯 Hedef Kitle
