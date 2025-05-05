@@ -48,6 +48,8 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
       #define PI 3.14
       const int GUN_SAYISI = 7;
 
+3. Operatörler
+
 
 ----
 
