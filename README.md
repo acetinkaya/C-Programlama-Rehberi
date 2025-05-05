@@ -230,7 +230,13 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     {
         int sayi = 0;
         int sonuc;
+        
+        printf("Bir sayı girin: ");
+        sonuc = scanf("%d", &sayi);
     
+
+    
+    }
 
 
 ----
