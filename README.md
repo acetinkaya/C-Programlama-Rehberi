@@ -97,6 +97,9 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 4.3.2 while Döngüsü
 
+    int i = 0;
+    while(i < 5)
+
 
 
 ----
