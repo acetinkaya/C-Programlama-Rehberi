@@ -148,7 +148,10 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     int matris[2][3] = {{1,2,3}, {4,5,6}};
     printf("%d", matris[1][2]); // 6 
 
+6. İşaretçiler - Pointers 
+   
 
+   
 ----
 
 ## 📖 Kaynak Kitaplar
