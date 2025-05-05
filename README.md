@@ -172,7 +172,10 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 | `<signal.h>`      | Sinyal İşleme            | `signal`, `raise`, `kill`                                                        | Çeşitli “sinyal” olaylarını yakalamak veya tetiklemek için (örn. `SIGINT`).     |
 | `<errno.h>`       | Hata Kodları             | `errno` (makro), `perror`, `strerror`                                            | Sistem çağrılarında oluşan hataları standart kod/mesaja çevirir.                |
 | `<locale.h>`      | Yerelleştirme            | `setlocale`, `localeconv`                                                        | Ondalık ayraç, para birimi, alfabetik sıralama vb. kültür ayarlarını yönetir.   |
-   
+
+
+
+
 ----
 
 ## 📖 Kaynak Kitaplar
