@@ -108,7 +108,10 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
     int i = 0;
     do
-
+    {
+        printf("%d\n", i);
+        i++;
+    } while(i < 5);
     
 ----
 
