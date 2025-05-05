@@ -51,6 +51,7 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 3. Operatörler
 
 3.1 Aritmetik Operatörler
+int toplam = 5 + 3; // 8
 
 ----
 
