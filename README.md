@@ -45,6 +45,7 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
       int yas = 25;
       float sicaklik = 36.5;
       char harf = 'A';
+      #define PI 3.14
 
 
 
