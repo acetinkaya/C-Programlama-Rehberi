@@ -231,7 +231,11 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     {
         int sayi;
     
+        printf("Bir sayı girin: ");
+        scanf("%d", &sayi);
+    
 
+    }
 
 8.3. Girilen Bir Değerin Sayı Olduğu Kontrol Edildikten Sonra Tek mi Çift mi Olduğunu Bulma
 
