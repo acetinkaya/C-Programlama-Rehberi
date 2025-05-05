@@ -125,6 +125,10 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 5.1 Fonksiyon Tanımı ve Kullanımı
 
+    int topla(int a, int b) 
+    {
+        return a + b;
+    }
 
 
     
