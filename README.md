@@ -40,7 +40,9 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
       yorum
     */
 
-2.2 Değişkenler ve Veri Tipleri 
+2.2 Değişkenler ve Veri Tipleri (int, float, double, char)
+
+
 
 ----
 
