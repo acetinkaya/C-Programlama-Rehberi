@@ -173,8 +173,9 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 | `<errno.h>`       | Hata Kodları             | `errno` (makro), `perror`, `strerror`                                            | Sistem çağrılarında oluşan hataları standart kod/mesaja çevirir.                |
 | `<locale.h>`      | Yerelleştirme            | `setlocale`, `localeconv`                                                        | Ondalık ayraç, para birimi, alfabetik sıralama vb. kültür ayarlarını yönetir.   |
 
-8. C Programlama Dili ÖRnekleri
+8. C Programlama Dili Örnekleri
 
+8.1. Girilen Bir Sayının Tek mi Çift mi Olduğunu Bulma..
 
 
 
