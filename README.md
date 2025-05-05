@@ -204,7 +204,10 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     
     int main()
     {
-    	
+    int sayi = 0;
+    int sonuc = 0;
+    
+
 
 
 
