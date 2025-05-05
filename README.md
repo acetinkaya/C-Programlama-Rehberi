@@ -71,10 +71,13 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
     if (a == b) { printf("Esittir\n"); }
 
+    if (not1 >= 50 || not2 >= 50) { printf("Ders geçildi.\n"); }
 
 3.3 Mantıksal Operatörler
     
     if (a > 0 && b > 0) { printf("Pozitif sayilar\n"); }
+
+    
 
     --
     
