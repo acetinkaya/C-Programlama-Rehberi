@@ -40,7 +40,7 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
       yorum
     */
 
-2.2 Değişkenler
+2.2 Değişkenler ve Veri Tipleri 
 
 ----
 
