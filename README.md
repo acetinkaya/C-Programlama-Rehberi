@@ -65,6 +65,16 @@ if (a > 0 && b > 0) { printf("Pozitif sayilar\n"); }
 
 4. Kontrol Yapıları
 
+4.1 Koşullu İfadeler
+   
+      if (yas > 18) 
+      {
+          printf("Yetiskin.\n");
+      }
+       else 
+      {
+          printf("Cocuk.\n");
+      }
 
 
 ----
