@@ -106,7 +106,10 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 4.3.3 do-while Döngüsü
 
+    int i = 0;
+    do
 
+    
 ----
 
 ## 📖 Kaynak Kitaplar
