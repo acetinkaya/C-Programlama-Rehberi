@@ -148,10 +148,10 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     int matris[2][3] = {{1,2,3}, {4,5,6}};
     printf("%d", matris[1][2]); // 6 
 
-6. İşaretçiler - Pointers 
+6.3 İşaretçiler - Pointers 
    
-        int x = 42;            // Normal bir tamsayı değişkeni
-        int *p = &x;           // p, x'in adresini tutan gösterici
+    int x = 42;            // Normal bir tamsayı değişkeni
+    nt *p = &x;           // p, x'in adresini tutan gösterici
 
         printf("x  değeri : %d\n",  x);   // 42
         printf("&x adresi : %p\n", &x);   // Örn. 0x7ffd5c1e5b3c
