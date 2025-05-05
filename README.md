@@ -224,7 +224,6 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 8.2. Girilen Bir Sayının Tek mi Çift mi Olduğunu Bulma
 
-    
     #include <stdio.h>
     
     int main()
@@ -233,7 +232,12 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     
         printf("Bir sayı girin: ");
         scanf("%d", &sayi);
-    
+        
+        if (sayi % 2 == 0) 
+        {
+            printf("%d çift sayıdır.\n", sayi);
+        } 
+
 
     }
 
