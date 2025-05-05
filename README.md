@@ -198,6 +198,12 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 8. C Programlama Dili Örnekleri
 
+8.1. Kullanıcı Girdisinin Doğruluğunu scanf() ile Kontrol Etme
+
+
+
+
+
 8.1. Girilen Bir Sayının Tek mi Çift mi Olduğunu Bulma..
 
 
