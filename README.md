@@ -78,6 +78,13 @@ if (a > 0 && b > 0) { printf("Pozitif sayilar\n"); }
 
 4.2 switch-case Yapısı
 
+    switch(gun)
+    {
+      case 1: printf("Pazartesi"); break;
+      case 2: printf("Sali"); break;
+      default: printf("Gecersiz gun");     
+    }
+
 
 ----
 
