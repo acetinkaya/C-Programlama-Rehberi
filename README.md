@@ -129,7 +129,12 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     {
         return a + b;
     }
-
+    
+    int main()
+     {
+        int sonuc = topla(5, 3);
+        printf("%d", sonuc);
+    }
 
     
 ----
