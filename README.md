@@ -150,9 +150,11 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 6. İşaretçiler - Pointers 
    
-    int x = 42;            // Normal bir tamsayı değişkeni
-    int *p = &x;           // p, x'in adresini tutan gösterici
-            
+        int x = 42;            // Normal bir tamsayı değişkeni
+        int *p = &x;           // p, x'in adresini tutan gösterici
+
+        printf("x  değeri : %d\n",  x);   // 42
+   
 
    
 ----
