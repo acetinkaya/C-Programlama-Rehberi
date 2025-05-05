@@ -145,7 +145,8 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 6.2 Çok Boyutlu Dizi
 
-    int matris[2][3] = 
+    int matris[2][3] = {{1,2,3}, {4,5,6}};
+    
 
 
 ----
