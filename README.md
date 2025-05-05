@@ -120,6 +120,9 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
         printf("%d\n", i);
         i++;
     } while(i < 5);
+
+5. Fonksiyonlar
+
     
 ----
 
