@@ -43,6 +43,7 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 2.2 Değişkenler ve Veri Tipleri (int, float, double, char)
      
       int yas = 25;
+      float sicaklik = 36.5;
 
 
 
