@@ -90,7 +90,9 @@ if (a > 0 && b > 0) { printf("Pozitif sayilar\n"); }
 4.3.1 for Döngüsü
 
     for(int i=0; i<5; i++) 
-
+    {
+        printf("%d\n", i);
+    }
 
 ----
 
