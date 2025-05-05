@@ -10,7 +10,11 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 * Gömülü sistem uygulamalarında algoritma geliştirmeyi ve programlamaya ilgi duyan tüm geliştiriciler. 
 
-# 📘 Ders İçeriği:
+# 📘 Ders Video İçerikleri:
+
+https://youtu.be/uJD-iz-rm0Q
+
+# 📘 Ders İçerikleri:
 
 ## 1. C Programlama Diline Genel Bakış
 
@@ -30,6 +34,8 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
         printf("Merhaba Hayat\n");
         return 0;
     }
+
+## 2. C Programlama Diline Giriş
 
 2.1 Yorum Satırları
 
