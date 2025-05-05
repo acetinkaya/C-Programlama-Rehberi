@@ -123,7 +123,9 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 5. Fonksiyonlar
 
-5.1 Fonksiyon Tanımı 
+5.1 Fonksiyon Tanımı ve Kullanımı
+
+
 
     
 ----
