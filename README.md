@@ -138,6 +138,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 6. Diziler
 
+6.1 Tek Boyutlu Dizi
 
     
 ----
