@@ -215,7 +215,13 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     {
         printf("Girilen sayi: %d\n", sayi);
     } 
-
+    else 
+    {
+        printf("Gecersiz karakter girisi yaptiniz.\n");
+    }
+    
+    
+    }
 
 
 
