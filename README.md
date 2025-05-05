@@ -237,7 +237,10 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
         {
             printf("%d çift sayıdır.\n", sayi);
         } 
-
+        else 
+        {
+            printf("%d tek sayıdır.\n", sayi);
+        }  
 
     }
 
