@@ -211,6 +211,10 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     
     sonuc = scanf("%d", &sayi);
     
+    if (sonuc == 1) 
+    {
+        printf("Girilen sayi: %d\n", sayi);
+    } 
 
 
 
