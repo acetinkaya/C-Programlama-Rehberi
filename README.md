@@ -238,6 +238,12 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
         {
             if (sayi % 2 == 0) 
             {
+                printf("%d çift sayıdır.\n", sayi);
+            } 
+            else 
+            {
+                printf("%d tek sayıdır.\n", sayi);
+            }
 
     
     }
