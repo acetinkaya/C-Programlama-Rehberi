@@ -87,6 +87,8 @@ if (a > 0 && b > 0) { printf("Pozitif sayilar\n"); }
 
 4.3 Döngüler
 
+4.3.1 for Döngüsü
+
 
 
 ----
