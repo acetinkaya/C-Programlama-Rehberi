@@ -95,6 +95,10 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
         printf("%d\n", i);
     }
 
+4.3.2 while Döngüsü
+
+
+
 ----
 
 ## 📖 Kaynak Kitaplar
