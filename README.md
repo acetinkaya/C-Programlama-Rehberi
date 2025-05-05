@@ -33,6 +33,8 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 2.1 Yorum Satırları
 
+    // Tek satırlık yorum
+
 
 
 
