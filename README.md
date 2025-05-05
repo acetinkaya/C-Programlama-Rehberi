@@ -169,7 +169,9 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 | `<ctype.h>`       | Karakter Sınıflama       | `isalnum`, `isalpha`, `isdigit`, `isspace`, `tolower`, `toupper`                | Karakter türünü sınar veya harfi büyük/küçük yapar.                             |
 | `<time.h>`        | Tarih & Zaman            | `time`, `localtime`, `gmtime`, `difftime`, `clock`, `strftime`                  | Unix zaman damgası, yerel/zaman dilimi dönüşümü, süre ölçümü.                   |
 | `<assert.h>`      | Hata Ayıklama            | `assert`                                                                         | Koşul sağlanmazsa çalışma anında mesaj basıp programı sonlandırır.              |
-
+| `<signal.h>`      | Sinyal İşleme            | `signal`, `raise`, `kill`                                                        | Çeşitli “sinyal” olaylarını yakalamak veya tetiklemek için (örn. `SIGINT`).     |
+| `<errno.h>`       | Hata Kodları             | `errno` (makro), `perror`, `strerror`                                            | Sistem çağrılarında oluşan hataları standart kod/mesaja çevirir.                |
+| `<locale.h>`      | Yerelleştirme            | `setlocale`, `localeconv`                                                        | Ondalık ayraç, para birimi, alfabetik sıralama vb. kültür ayarlarını yönetir.   |
    
 ----
 
