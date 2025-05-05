@@ -150,6 +150,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 6. İşaretçiler - Pointers 
    
+        int x = 42;            // Normal bir tamsayı değişkeni
 
    
 ----
