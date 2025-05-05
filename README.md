@@ -59,6 +59,11 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
     if (a == b) { printf("Esittir\n"); }
 
+
+3.3 Mantıksal Operatörler
+
+
+
 ----
 
 ## 📖 Kaynak Kitaplar
