@@ -193,8 +193,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 | `<string.h>`      | Karakter Dizileri        | `strlen`, `strcpy`, `strncpy`, `strcat`, `strcmp`, `strchr`, `strstr`, `memset`, `memcpy`, `memmove` | C-string işlemleri ve ham bellek kopyalama/doldurma.  | 
 | `<math.h>`        | Matematik  | `sqrt`, `pow`, `sin`, `cos`, `tan`, `log`, `exp`, `fabs`, `ceil`, `floor` | Karekök, trigonometrik, logaritmik ve yuvarlama fonksiyonları. 
 
-
--
+7.2. C Programlama Dilinde Özel Kullanımı Olan Kütüphaneler
 
 | Başlık (header)   | Ana İşlev Grubu         | Sık Kullanılan Fonksiyonlar*                                    | Kısaca Ne Yapar                                                                 |
 |-------------------|--------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
