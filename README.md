@@ -293,11 +293,18 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
         // Kullanıcıdan 6 sayı alınıyor...
         printf("Lutfen 6 adet tamsayı giriniz:\n");
         for (i = 0; i < 6; i++) 
-    	{
+    	  {
             printf("%d. sayi: ", i + 1);
             scanf("%d", &sayilar[i]);
         }
-
+        
+        // Girilen sayıları yazdır
+        printf("\nGirilen sayilar:\n");
+        for (i = 0; i < 6; i++) 
+    	  {
+            printf("%d ", sayilar[i]);
+        }
+    }
 
 
 ----
