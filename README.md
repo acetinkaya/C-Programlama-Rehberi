@@ -341,6 +341,16 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     
         printf("Lütfen 6 adet tamsayı giriniz:\n");
         for (i = 0; i < 6; i++) 
+    	  {
+            printf("%d. sayi: ", i + 1);
+            scanf("%d", &sayilar[i]);
+    
+            if (sayilar[i] % 2 == 0)
+                ciftSayac++;
+            else
+                tekSayac++;
+        }
+    
 
 
 
