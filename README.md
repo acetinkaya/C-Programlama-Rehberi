@@ -204,7 +204,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 | `<assert.h>`      | Hata Ayıklama            | `assert`                                                                         | Koşul sağlanmazsa çalışma anında mesaj basıp programı sonlandırır.              |
 | `<signal.h>`      | Sinyal İşleme            | `signal`, `raise`, `kill`                                                        | Çeşitli “sinyal” olaylarını yakalamak veya tetiklemek için (örn. `SIGINT`).     |
 | `<errno.h>`       | Hata Kodları             | `errno` (makro), `perror`, `strerror`                                            | Sistem çağrılarında oluşan hataları standart kod/mesaja çevirir.                |
-| `<locale.h>`      | Yerelleştirme            | `setlocale`, `localeconv`                                                        | Ondalık ayraç, para birimi, alfabetik sıralama vb. kültür ayarlarını yönetir.   |
+| `<locale.h>`      | Yerelleştirme            | `setlocale`, `localeconv`                                                        | Ondalık ayraç, para birimi, alfabetik sıralama vb. kültür ayarlarını yönetir.   |`sqrt`, `pow`, `sin`, `cos`, `tan`, `log`, `exp`, `fabs`, `ceil`, `floor`        | Karekök, trigonometrik, logaritmik ve yuvarlama fonksiyonları.                  |
 
 8. C Programlama Dili Örnekleri
 
