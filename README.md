@@ -332,6 +332,16 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 8.6. Kullanıcıdan Alınan Sayıların Diziye Atılması ve Tek–Çift Sayıların Adetlerinin Belirlenmesi
 
+    #include <stdio.h>
+    
+    int main() 
+    {
+        int sayilar[6];
+        int i, tekSayac = 0, ciftSayac = 0;
+    
+        printf("Lütfen 6 adet tamsayı giriniz:\n");
+        for (i = 0; i < 6; i++) 
+
 
 
 ----
