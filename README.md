@@ -281,8 +281,22 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     
     }
 
-8.4. Kullanıcıdan Alınan Sayıları Diziye
+8.4. Kullanıcıdan Alınan Sayıları Diziye Aktarma ve Yazdırma
 
+    #include <stdio.h>
+    
+    int main() 
+    {
+        int sayilar[6];
+        int i;
+    
+        // Kullanıcıdan 6 sayı alınıyor...
+        printf("Lutfen 6 adet tamsayı giriniz:\n");
+        for (i = 0; i < 6; i++) 
+    	{
+            printf("%d. sayi: ", i + 1);
+            scanf("%d", &sayilar[i]);
+        }
 
 
 
