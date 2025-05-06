@@ -181,7 +181,9 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     printf("p  adresi : %p\n",  p);   // Aynı adres → &x
     printf("*p değeri : %d\n", *p);   // 42   
 
-7. C Programlama Dili Kütüphaneleri Genel Kullanımı Olan Kütüphaneler       
+7. C Programlama Dili Kütüphaneleri 
+
+7.1. C Programlama Dilinde Genel Kullanımı Olan Kütüphaneler
 
 | Başlık (header)   | Ana İşlev Grubu         | Sık Kullanılan Fonksiyonlar*  | Kısaca Ne Yapar   |    
 |-------------------|---------------|--------------|----------------------------------------------------|     
