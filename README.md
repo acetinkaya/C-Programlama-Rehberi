@@ -281,7 +281,9 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     
     }
 
-8.4. 
+8.4. Kullanıcıdan Alınan
+
+
 
 
 ----
