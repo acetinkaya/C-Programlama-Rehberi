@@ -330,6 +330,10 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     
     }
 
+8.6. Kullanıcıdan Alınan Sayıların Diziye Atılması
+
+
+
 ----
 
 ## 📖 Kaynak Kitaplar
