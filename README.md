@@ -307,6 +307,10 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     }
 
 
+8.5. Kullanıcıdan Alınan Sayıların Ortalamasını Hesaplama
+
+
+
 ----
 
 ## 📖 Kaynak Kitaplar
