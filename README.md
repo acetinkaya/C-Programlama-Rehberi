@@ -182,6 +182,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     printf("*p değeri : %d\n", *p);   // 42   
 
 7. C Programlama Dili Kütüphaneleri Genel Kullanımı Olan Kütüphaneler       
+
 | Başlık (header)   | Ana İşlev Grubu         | Sık Kullanılan Fonksiyonlar*  | Kısaca Ne Yapar   |    
 |-------------------|---------------|--------------|----------------------------------------------------|     
 | `<time.h>`        | Tarih & Zaman  | `time`, `localtime`, `gmtime`, `difftime`, `clock`, `strftime`   | Unix zaman damgası, yerel/zaman dilimi dönüşümü, süre ölçümü.  |
