@@ -185,7 +185,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 | Başlık (header)   | Ana İşlev Grubu         | Sık Kullanılan Fonksiyonlar*                                    | Kısaca Ne Yapar                                                                 |
 |-------------------|--------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | `<time.h>`        | Tarih & Zaman            | `time`, `localtime`, `gmtime`, `difftime`, `clock`, `strftime`                  | Unix zaman damgası, yerel/zaman dilimi dönüşümü, süre ölçümü.                   |
-| `<stdio.h>`       | Girdi / Çıktı            | 
+| `<stdio.h>`       | Girdi / Çıktı            | `printf`, `scanf`, `fprintf`, `fgets`, `fgetc`, `fputc`, `fseek`, `rewind`      | Dosya ve ekran/klavye akışlarını biçimlendirilmiş olarak yönetir.               |
 
 ----
 
