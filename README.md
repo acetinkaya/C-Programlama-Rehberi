@@ -187,6 +187,9 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 | `<time.h>`        | Tarih & Zaman            | `time`, `localtime`, `gmtime`, `difftime`, `clock`, `strftime`                  | Unix zaman damgası, yerel/zaman dilimi dönüşümü, süre ölçümü.                   |
 | `<stdio.h>`       | Girdi / Çıktı            | `printf`, `scanf`, `fprintf`, `fgets`, `fgetc`, `fputc`, `fseek`, `rewind`      | Dosya ve ekran/klavye akışlarını biçimlendirilmiş olarak yönetir.               |
 | `<stdlib.h>`      | Yardımcı & Bellek        | `malloc`, `calloc`, `realloc`, `free`, `atoi`, `atof`, `strtol`, `rand`, `srand`, `exit`, `system` | Dinamik bellek, sayı–metin dönüşümü, rastgele sayı, proses kontrolü.            |
+| `<string.h>`      | Karakter Dizileri        | 
+
+
 
 ----
 
@@ -194,7 +197,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 |-------------------|--------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
 
 
-| `<string.h>`      | Karakter Dizileri        | `strlen`, `strcpy`, `strncpy`, `strcat`, `strcmp`, `strchr`, `strstr`, `memset`, `memcpy`, `memmove` | C-string işlemleri ve ham bellek kopyalama/doldurma.                            |
+
 | `<math.h>`        | Matematik                | `sqrt`, `pow`, `sin`, `cos`, `tan`, `log`, `exp`, `fabs`, `ceil`, `floor`        | Karekök, trigonometrik, logaritmik ve yuvarlama fonksiyonları.                  |
 | `<ctype.h>`       | Karakter Sınıflama       | `isalnum`, `isalpha`, `isdigit`, `isspace`, `tolower`, `toupper`                | Karakter türünü sınar veya harfi büyük/küçük yapar.                             |
 
