@@ -317,6 +317,13 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
         float ortalama;
         printf("Lütfen 6 adet tamsayı giriniz:\n");
 
+        for (i = 0; i < 6; i++) 
+    	  {
+            printf("%d. sayi: ", i + 1);
+            scanf("%d", &sayilar[i]);
+            toplam += sayilar[i];
+        }
+    
 
 
 ----
