@@ -182,6 +182,12 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
     printf("*p değeri : %d\n", *p);   // 42   
 
 7. C Programlama Dili Kütüphaneleri Genel Kullanımı Olan Kütüphaneler
+| Başlık (header)   | Ana İşlev Grubu         | Sık Kullanılan Fonksiyonlar*                                    | Kısaca Ne Yapar                                                                 |
+|-------------------|--------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
+
+
+
+----
 
 | Başlık (header)   | Ana İşlev Grubu         | Sık Kullanılan Fonksiyonlar*                                    | Kısaca Ne Yapar                                                                 |
 |-------------------|--------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -190,7 +196,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 | `<string.h>`      | Karakter Dizileri        | `strlen`, `strcpy`, `strncpy`, `strcat`, `strcmp`, `strchr`, `strstr`, `memset`, `memcpy`, `memmove` | C-string işlemleri ve ham bellek kopyalama/doldurma.                            |
 | `<math.h>`        | Matematik                | `sqrt`, `pow`, `sin`, `cos`, `tan`, `log`, `exp`, `fabs`, `ceil`, `floor`        | Karekök, trigonometrik, logaritmik ve yuvarlama fonksiyonları.                  |
 | `<ctype.h>`       | Karakter Sınıflama       | `isalnum`, `isalpha`, `isdigit`, `isspace`, `tolower`, `toupper`                | Karakter türünü sınar veya harfi büyük/küçük yapar.                             |
-| `<time.h>`        | Tarih & Zaman            | `time`, `localtime`, `gmtime`, `difftime`, `clock`, `strftime`                  | Unix zaman damgası, yerel/zaman dilimi dönüşümü, süre ölçümü.                   |
+
 | `<assert.h>`      | Hata Ayıklama            | `assert`                                                                         | Koşul sağlanmazsa çalışma anında mesaj basıp programı sonlandırır.              |
 | `<signal.h>`      | Sinyal İşleme            | `signal`, `raise`, `kill`                                                        | Çeşitli “sinyal” olaylarını yakalamak veya tetiklemek için (örn. `SIGINT`).     |
 | `<errno.h>`       | Hata Kodları             | `errno` (makro), `perror`, `strerror`                                            | Sistem çağrılarında oluşan hataları standart kod/mesaja çevirir.                |
