@@ -324,7 +324,11 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
             toplam += sayilar[i];
         }
     
-
+        ortalama = (float)toplam / 6;
+    
+        printf("\nGirilen sayıların ortalaması: %.2f\n", ortalama);
+    
+    }
 
 ----
 
