@@ -315,7 +315,8 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
         int sayilar[6];
         int i, toplam = 0;
         float ortalama;
-    
+        printf("Lütfen 6 adet tamsayı giriniz:\n");
+
 
 
 ----
