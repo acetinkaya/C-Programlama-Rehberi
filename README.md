@@ -350,7 +350,12 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
             else
                 tekSayac++;
         }
+        
+        printf("\nGirilen sayılar arasında:\n");
+        printf("Tek sayı adedi: %d\n", tekSayac);
+        printf("Çift sayı adedi: %d\n", ciftSayac);
     
+    }
 
 
 
