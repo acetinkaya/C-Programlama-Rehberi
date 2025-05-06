@@ -309,6 +309,13 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 8.5. Kullanıcıdan Alınan Sayıların Ortalamasını Hesaplama
 
+    #include <stdio.h>
+    int main() 
+    {
+        int sayilar[6];
+        int i, toplam = 0;
+        float ortalama;
+    
 
 
 ----
