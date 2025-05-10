@@ -49,7 +49,7 @@ DevC++ "Dev-Cpp 5.11 TDM-GCC 4.9.2" sürümünü [SourceForge](https://sourcefor
     #include <stdio.h>
     int main() 
     {
-        printf("Merhaba Hayat\n");
+        printf("Merhaba Hayat");
     }
 
 ## 2. C Programlama Diline Giriş
