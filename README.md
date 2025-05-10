@@ -216,7 +216,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
     printf("p  adresi : %p\n",  p);   // Aynı adres → &x
     printf("*p değeri : %d\n", *p);   // 42   
 
-7. C Programlama Dili Kütüphaneleri 
+## 7. C Programlama Dili Kütüphaneleri 
 
 7.1. C Programlama Dilinde Genel Kullanımı Olan Kütüphaneler
 
@@ -238,7 +238,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 | `<errno.h>`       | Hata Kodları             | `errno` (makro), `perror`, `strerror`                                            | Sistem çağrılarında oluşan hataları standart kod/mesaja çevirir.                |
 | `<locale.h>`      | Yerelleştirme            | `setlocale`, `localeconv`                                                        | Ondalık ayraç, para birimi, alfabetik sıralama vb. kültür ayarlarını yönetir.   
 
-8. C Programlama Dili Örnekleri
+## 8. C Programlama Dili Örnekleri
 
 8.1. Kullanıcı Girdisinin Doğruluğunu scanf() ile Kontrol Etme
 
