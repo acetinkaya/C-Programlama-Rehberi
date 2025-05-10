@@ -95,7 +95,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 | `%s`   | Metin (string) yazdırır               | `printf("Ad: %s", "Ali");`          | "Ad: Ali" olarak çıktı verir.                 |
 | `%c`   | Tek karakter yazdırır                 | `printf("Harf: %c", 'A');`          | "Harf: A" olarak çıktı verir.                 |
 
-3. Operatörler
+## 3. Operatörler
 
 3.1 Aritmetik Operatörler
 
