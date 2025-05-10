@@ -92,9 +92,8 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 | `\"`   | Çift tırnak işareti yazar             | `printf("Ali \"hocam\" dedi.");`    | Çıktı: Ali "hocam" dedi.                      |
 | `%d`   | Tam sayı (integer) yazdırır           | `printf("Yaş: %d", 30);`            | `%d` yerine 30 yazılır.                       |
 | `%f`   | Ondalıklı sayı (float) yazdırır       | `printf("Ortalama: %.2f", 87.456);` | Virgülden sonra 2 basamak gösterilir.         |
-
-
-
+| `%s`   | Metin (string) yazdırır               | `printf("Ad: %s", "Ali");`          | "Ad: Ali" olarak çıktı verir.                 |
+| `%c`   | Tek karakter yazdırır                 | `printf("Harf: %c", 'A');`          | "Harf: A" olarak çıktı verir.                 |
 
 3. Operatörler
 
