@@ -53,6 +53,8 @@ DevC++ "Dev-Cpp 5.11 TDM-GCC 4.9.2" sürümünü [SourceForge](https://sourcefor
 
 ![alternatif metin](https://github.com/acetinkaya/C-Programlama-Rehberi/blob/main/_1_MerhabaHayat_1.png)
 
+![alternatif metin](https://github.com/acetinkaya/C-Programlama-Rehberi/blob/main/_1_MerhabaHayat_2.png)
+
 ## 2. C Programlama Diline Giriş
 
 2.1 Yorum Satırları
