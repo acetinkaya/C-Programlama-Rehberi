@@ -80,6 +80,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 
 1. Doğru Tipte Veri Gösterimi Sağlar   
 2. Hatalı Çıktı ve Bellek Sorunlarını Önler   
+3. Derleyiciye Tip Hakkında Bilgi Verir   
 
 
 
