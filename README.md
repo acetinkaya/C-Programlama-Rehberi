@@ -88,6 +88,8 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 | ------ | ------------------------------------- | ----------------------------------- | --------------------------------------------- |
 | `\n`   | Yeni satıra geçer                     | `printf("Merhaba\nHayat");`         | "Merhaba" ve "Hayat" ayrı satırlarda yazılır. |
 | `\t`   | Sekme (tab) boşluğu ekler             | `printf("Ad:\tAli");`               | "Ad:" ve "Ali" arasında sekme boşluğu olur.   |
+| `\\`   | Ters eğik çizgi (`\`) karakteri yazar | `printf("C:\\Program Files\\");`    | Çift `\\` ile gerçek `\` karakteri yazılır.   |
+| `\"`   | Çift tırnak işareti yazar             | `printf("Ali \"hocam\" dedi.");`    | Çıktı: Ali "hocam" dedi.                      |
 
 
 
