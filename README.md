@@ -42,8 +42,6 @@ DevC++ "Dev-Cpp 5.11 TDM-GCC 4.9.2" sürümünü [SourceForge](https://sourcefor
 
 ![alternatif metin](https://github.com/acetinkaya/C-Programlama-Rehberi/blob/main/sourceforge_2.png)
 
-
-
 •	İlk C Programı:
 
     #include <stdio.h>
@@ -51,6 +49,9 @@ DevC++ "Dev-Cpp 5.11 TDM-GCC 4.9.2" sürümünü [SourceForge](https://sourcefor
     {
         printf("Merhaba Hayat");
     }
+
+
+![alternatif metin](https://github.com/acetinkaya/C-Programlama-Rehberi/blob/main/_1_MerhabaHayat_1.png)
 
 ## 2. C Programlama Diline Giriş
 
