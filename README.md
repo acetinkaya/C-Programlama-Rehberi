@@ -90,6 +90,8 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 | `\t`   | Sekme (tab) boşluğu ekler             | `printf("Ad:\tAli");`               | "Ad:" ve "Ali" arasında sekme boşluğu olur.   |
 | `\\`   | Ters eğik çizgi (`\`) karakteri yazar | `printf("C:\\Program Files\\");`    | Çift `\\` ile gerçek `\` karakteri yazılır.   |
 | `\"`   | Çift tırnak işareti yazar             | `printf("Ali \"hocam\" dedi.");`    | Çıktı: Ali "hocam" dedi.                      |
+| `%d`   | Tam sayı (integer) yazdırır           | `printf("Yaş: %d", 30);`            | `%d` yerine 30 yazılır.                       |
+| `%f`   | Ondalıklı sayı (float) yazdırır       | `printf("Ortalama: %.2f", 87.456);` | Virgülden sonra 2 basamak gösterilir.         |
 
 
 
