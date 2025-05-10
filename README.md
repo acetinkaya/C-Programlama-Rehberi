@@ -38,7 +38,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 ![alternatif metin](https://github.com/acetinkaya/C-Programlama-Rehberi/blob/main/devc%2B%2B_1.png)
 
-DevC++ "Dev-Cpp 5.11 TDM-GCC 4.9.2" sürümünü aşağıdaki sourceforge bağlantısından indirebilirsiniz.
+DevC++ "Dev-Cpp 5.11 TDM-GCC 4.9.2" sürümünü SourceForge bağlantısından indirebilirsiniz.
 
 ![alternatif metin](https://github.com/acetinkaya/C-Programlama-Rehberi/blob/main/sourceforge_2.png)
 
