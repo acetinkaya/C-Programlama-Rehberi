@@ -32,6 +32,8 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 -> İşletim sistemleri (Linux, Windows'un çekirdek işlem bölümleri), gömülü sistemler, algoritma geliştirme, donanım sürücüleri.
 
+- Hangi C 
+
 •	İlk C Programı:
 
     #include <stdio.h>
