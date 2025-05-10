@@ -76,6 +76,11 @@ DevC++ "Dev-Cpp 5.11 TDM-GCC 4.9.2" sürümünü [SourceForge](https://sourcefor
 
 2.3 C dilinde Veri Formatlama Kuralları
 
+C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( printf() ve scanf() ) fonksiyonlarında doğru veri tipinin doğru biçimde işlenmesini sağlamak açısından büyük önem taşır.
+
+1. Doğru Tipte Veri Gösterimi Sağlar   
+
+
 
 3. Operatörler
 
