@@ -388,7 +388,7 @@ DevC++ "Dev-Cpp 5.11 TDM-GCC 4.9.2" sürümünü [SourceForge](https://sourcefor
 
 6. Prof. Dr. Fatih Başçiftçi, "C Programlama Dİli", Atlas Akademi, Konya, 2010.
 
-7. C. Laplace and Bloodshed Software, Dev-C++ (Version 5.11) [Computer software]. 
+7. C. Laplace and Bloodshed Software, Dev-C++ (Version 5.11) [Computer software]. Bloodshed Software, 2016. [Online]. Available: https://www.bloodshed.net/
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
