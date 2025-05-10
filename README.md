@@ -84,6 +84,9 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 4. Kullanıcıya Anlamlı Çıktı Sunar   
 5. Programlama Platformuna Bağımlı Olmadan Standartlaşma Sağlar    
 
+| Sembol | Anlamı / Görevi                       | Örnek Kullanım                      | Açıklama                                      |
+| ------ | ------------------------------------- | ----------------------------------- | --------------------------------------------- |
+| `\n`   | Yeni satıra geçer                     | `printf("Merhaba\nDünya");`         | "Merhaba" ve "Dünya" ayrı satırlarda yazılır. |
 
 
 
