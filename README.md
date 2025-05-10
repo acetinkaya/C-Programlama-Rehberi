@@ -79,6 +79,8 @@ DevC++ "Dev-Cpp 5.11 TDM-GCC 4.9.2" sürümünü [SourceForge](https://sourcefor
 C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( printf() ve scanf() ) fonksiyonlarında doğru veri tipinin doğru biçimde işlenmesini sağlamak açısından büyük önem taşır.
 
 1. Doğru Tipte Veri Gösterimi Sağlar   
+2. Hatalı Çıktı ve Bellek Sorunlarını Önler   
+
 
 
 
