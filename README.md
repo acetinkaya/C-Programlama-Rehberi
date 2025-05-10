@@ -74,7 +74,7 @@ DevC++ "Dev-Cpp 5.11 TDM-GCC 4.9.2" sürümünü [SourceForge](https://sourcefor
       #define PI 3.14
       const int GUN_SAYISI = 7;
 
-2.3 C dilinde Veri 
+2.3 C dilinde Veri Formatlama Kuralları
 
 
 3. Operatörler
