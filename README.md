@@ -179,7 +179,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
         i++;
     } while(i < 5);
 
-5. Fonksiyonlar
+## 5. Fonksiyonlar
 
 5.1 Fonksiyon Tanımı ve Kullanımı
 
