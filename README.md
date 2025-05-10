@@ -50,7 +50,6 @@ DevC++ "Dev-Cpp 5.11 TDM-GCC 4.9.2" sürümünü [SourceForge](https://sourcefor
     int main() 
     {
         printf("Merhaba Hayat\n");
-        return 0;
     }
 
 ## 2. C Programlama Diline Giriş
