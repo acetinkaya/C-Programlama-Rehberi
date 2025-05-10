@@ -114,7 +114,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
     
     if (!aktif) { printf("Kullanıcı pasif.\n"); }
 
-4. Kontrol Yapıları
+## 4. Kontrol Yapıları
 
 4.1 Koşullu İfadeler
    
