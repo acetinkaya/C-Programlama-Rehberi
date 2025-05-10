@@ -34,6 +34,8 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 - Hangi C Derleyicisi Kullanılacaktır?
 
+-> DEVC++ 
+
 •	İlk C Programı:
 
     #include <stdio.h>
