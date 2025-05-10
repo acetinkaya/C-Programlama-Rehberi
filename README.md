@@ -194,7 +194,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
         printf("%d", sonuc);
     }
 
-6. Diziler
+## 6. Diziler
 
 6.1 Tek Boyutlu Dizi
 
