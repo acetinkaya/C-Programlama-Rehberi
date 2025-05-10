@@ -34,7 +34,7 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 - Hangi C Derleyicisi Kullanılacaktır?
 
--> DevC++ 
+-> DevC++ Derleyicisinin
 
 •	İlk C Programı:
 
