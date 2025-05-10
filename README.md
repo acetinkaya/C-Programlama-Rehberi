@@ -36,6 +36,8 @@ Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb5
 
 -> DevC++ Derleyicisinin "Dev-Cpp 5.11 TDM-GCC 4.9.2" versiyonu kullanılarak kodlar çalıştırılacaktır. 
 
+
+
 •	İlk C Programı:
 
     #include <stdio.h>
