@@ -206,15 +206,15 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
     int matris[2][3] = {{1,2,3}, {4,5,6}};
     printf("%d", matris[1][2]); // 6 
 
-6.3 İşaretçiler - Pointers 
-   
-    int x = 42;            // Normal bir tamsayı değişkeni
-    nt *p = &x;           // p, x'in adresini tutan gösterici
+7. İşaretçiler - Pointers    
 
-    printf("x  değeri : %d\n",  x);   // 42
-    printf("&x adresi : %p\n", &x);   // Örn. 0x7ffd5c1e5b3c
-    printf("p  adresi : %p\n",  p);   // Aynı adres → &x
-    printf("*p değeri : %d\n", *p);   // 42   
+int x = 42;            // Normal bir tamsayı değişkeni
+int *p = &x;           // p, x'in adresini tutan gösterici
+
+printf("x  değeri : %d\n",  x);   // 42
+printf("&x adresi : %p\n", &x);   // Örn. 0x7ffd5c1e5b3c
+printf("p  adresi : %p\n",  p);   // Aynı adres → &x
+printf("*p değeri : %d\n", *p);   // 42   
 
 ## 7. C Programlama Dili Kütüphaneleri 
 
