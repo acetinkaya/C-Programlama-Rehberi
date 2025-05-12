@@ -218,7 +218,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 
 ## 8. C Programlama Dili Kütüphaneleri 
 
-7.1. C Programlama Dilinde Genel Kullanımı Olan Kütüphaneler
+8.1. C Programlama Dilinde Genel Kullanımı Olan Kütüphaneler
 
 | Başlık (header)   | Ana İşlev Grubu         | Sık Kullanılan Fonksiyonlar*  | Kısaca Ne Yapar   |    
 |-------------------|---------------|--------------|----------------------------------------------------|     
@@ -228,7 +228,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 | `<string.h>`      | Karakter Dizileri        | `strlen`, `strcpy`, `strncpy`, `strcat`, `strcmp`, `strchr`, `strstr`, `memset`, `memcpy`, `memmove` | C-string işlemleri ve ham bellek kopyalama/doldurma.  | 
 | `<math.h>`        | Matematik  | `sqrt`, `pow`, `sin`, `cos`, `tan`, `log`, `exp`, `fabs`, `ceil`, `floor` | Karekök, trigonometrik, logaritmik ve yuvarlama fonksiyonları. 
 
-7.2. C Programlama Dilinde Özel Kullanımı Olan Kütüphaneler
+8.2. C Programlama Dilinde Özel Kullanımı Olan Kütüphaneler
 
 | Başlık (header)   | Ana İşlev Grubu         | Sık Kullanılan Fonksiyonlar*                                    | Kısaca Ne Yapar                                                                 |
 |-------------------|--------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -238,7 +238,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 | `<errno.h>`       | Hata Kodları             | `errno` (makro), `perror`, `strerror`                                            | Sistem çağrılarında oluşan hataları standart kod/mesaja çevirir.                |
 | `<locale.h>`      | Yerelleştirme            | `setlocale`, `localeconv`                                                        | Ondalık ayraç, para birimi, alfabetik sıralama vb. kültür ayarlarını yönetir.   
 
-## 8. C Programlama Dili Örnekleri
+## 8. C Programlama Dili Örnekleri 
 
 8.1. Kullanıcı Girdisinin Doğruluğunu scanf() ile Kontrol Etme
 
