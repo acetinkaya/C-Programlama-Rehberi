@@ -18,6 +18,8 @@ C Programlama Dili Konu Anlatımı - 1 Videosu :> https://youtu.be/uJD-iz-rm0Q
 
 C Programlama Dili Konu Anlatımı - 2 Videosu :> https://youtu.be/rb-bJ6QTJ0Q
 
+C Programlama Dili Konu Anlatımı - 3 Videosu :> https://youtu.be/JiQepEhOqw0
+
 Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb57Damw
 
 # 📘 Ders İçerikleri:
