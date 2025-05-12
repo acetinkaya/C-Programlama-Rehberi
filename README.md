@@ -264,7 +264,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
     
     }
 
-8.2. Girilen Bir Sayının Tek mi Çift mi Olduğunu Bulma
+9.2. Girilen Bir Sayının Tek mi Çift mi Olduğunu Bulma
 
     #include <stdio.h>
     
@@ -286,7 +286,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 
     }
 
-8.3. Girilen Bir Değerin Sayı Olduğu Kontrol Edildikten Sonra Tek mi Çift mi Olduğunu Bulma
+9.3. Girilen Bir Değerin Sayı Olduğu Kontrol Edildikten Sonra Tek mi Çift mi Olduğunu Bulma
 
     #include <stdio.h>
     
