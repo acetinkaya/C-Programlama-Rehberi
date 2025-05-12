@@ -238,9 +238,9 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 | `<errno.h>`       | Hata Kodları             | `errno` (makro), `perror`, `strerror`                                            | Sistem çağrılarında oluşan hataları standart kod/mesaja çevirir.                |
 | `<locale.h>`      | Yerelleştirme            | `setlocale`, `localeconv`                                                        | Ondalık ayraç, para birimi, alfabetik sıralama vb. kültür ayarlarını yönetir.   
 
-## 8. C Programlama Dili Örnekleri 
+## 9. C Programlama Dili Örnekleri 
 
-8.1. Kullanıcı Girdisinin Doğruluğunu scanf() ile Kontrol Etme
+9.1. Kullanıcı Girdisinin Doğruluğunu scanf() ile Kontrol Etme
 
     #include <stdio.h>
     
