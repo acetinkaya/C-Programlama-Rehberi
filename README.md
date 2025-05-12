@@ -316,7 +316,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
     
     }
 
-8.4. Kullanıcıdan Alınan Sayıları Diziye Aktarma ve Yazdırma
+9.4. Kullanıcıdan Alınan Sayıları Diziye Aktarma ve Yazdırma
 
     #include <stdio.h>
     
@@ -342,7 +342,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
     }
 
 
-8.5. Kullanıcıdan Alınan Sayıların Ortalamasını Hesaplama
+9.5. Kullanıcıdan Alınan Sayıların Ortalamasını Hesaplama
 
     #include <stdio.h>
     int main() 
