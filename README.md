@@ -365,7 +365,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
     
     }
 
-8.6. Kullanıcıdan Alınan Sayıların Diziye Atılması ve Tek–Çift Sayıların Adetlerinin Belirlenmesi
+9.6. Kullanıcıdan Alınan Sayıların Diziye Atılması ve Tek–Çift Sayıların Adetlerinin Belirlenmesi
 
     #include <stdio.h>
     
@@ -392,7 +392,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
     
     }
 
-8.7. Örnekler devam edecektir....
+9.7. Örnekler devam edecektir....
 
 
 ----
