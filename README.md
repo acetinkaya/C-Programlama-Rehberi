@@ -396,6 +396,10 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 
 9.7. Kullanıcının Belirlediği Sayı Adedi ile Girilen Sayı Adedinin Karşılaştırılması
 
+    #include <stdio.h>
+    
+    int main() 
+    {
 
 
 
