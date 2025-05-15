@@ -394,7 +394,9 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
     
     }
 
-9.7. Örnekler devam edecektir....
+9.7. Kullanıcının Belirlediği Sayı Adedi ile Girilen Sayı Adedinin Karşılaştırılması
+
+
 
 
 ----
