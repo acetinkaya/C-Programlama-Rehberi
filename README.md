@@ -430,7 +430,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
         printf("\nKullanıcıdan Gelen Sayı Adeti: %d\n", sayi_adeti);
     
         if (istenen_adet > sayi_adeti) 
-          { printf("Eksik Sayı Girdiniz\n") } 
+          { printf("Eksik Sayı Girdiniz\n"); } 
         else if (istenen_adet < sayi_adeti) 
           { printf("Fazla Sayı Girdiniz\n"); } 
         else if (istenen_adet == sayi_adeti) 
