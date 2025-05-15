@@ -400,8 +400,13 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
     
     int main() 
     {
-
-
+        int sayilar[6];                 // 6 elemanlı dizi
+        int istenen_adet = 6;
+        int sayi, sayi_adeti = 0;
+    
+        printf("6 Adet Sayı Giriniz\n");
+    
+ 
 
 ----
 
