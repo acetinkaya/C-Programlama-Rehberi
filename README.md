@@ -405,7 +405,23 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
         int sayi, sayi_adeti = 0;
     
         printf("6 Adet Sayı Giriniz\n");
+        for (int i = 0; i < istenen_adet; i++) 
+        {
+            printf("%d. sayi: ", i + 1);
+            if (scanf("%d", &sayi) == 1) 
+            {
+                sayilar[sayi_adeti] = sayi;
+                sayi_adeti++;
+            } 
+            else 
+            {
+                printf("Geçersiz değer girdiniz!\n");
+                while(getchar() != '\n');  // stdin'i temizle
+                i--; // Geçersiz girişte aynı sayıyı tekrar sor
+            }
+        }
     
+        
  
 
 ----
