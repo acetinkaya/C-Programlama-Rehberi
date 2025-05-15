@@ -421,7 +421,25 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
             }
         }
     
+        printf("Kullanıcıdan Gelen Degerler: ");
+        for (int i = 0; i < sayi_adeti; i++) 
+        {
+            printf("%d ", sayilar[i]);
+        }
+    
+        printf("\nKullanıcıdan Gelen Sayı Adeti: %d\n", sayi_adeti);
+    
+        if (istenen_adet > sayi_adeti) 
+          { printf("Eksik Sayı Girdiniz\n") } 
+        else if (istenen_adet < sayi_adeti) 
+          { printf("Fazla Sayı Girdiniz\n"); } 
+        else if (istenen_adet == sayi_adeti) 
+          { printf("Girilen Sayı İstenen Sayı Adeti Kadardır\n"); } 
+        else 
+          { printf("Hata\n"); }
         
+    }
+   
  
 
 ----
