@@ -16,7 +16,7 @@ Bu repo, C programlama dili üzerine hazırlanmış bir rehberdir. Temel konular
 
 C Programlama Dili Konu Anlatımı - 1 Videosu :> https://youtu.be/uJD-iz-rm0Q
 
-C Programlama Dili Konu Anlatımı - 2 Videosu :> https://youtu.be/rb-bJ6QTJ0Q
+C Programlama Dili Konu Anlatımı - 2 Videosu "Karar Yapıları (if-else, switch-case), Döngüler (for, while, do-while)" :> https://youtu.be/rb-bJ6QTJ0Q
 
 C Programlama Dili Konu Anlatımı - 3 Videosu "Fonksiyonlar, Diziler, C Programlama Dili Kütüphaneleri" :> https://youtu.be/JiQepEhOqw0
 
