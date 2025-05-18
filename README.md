@@ -18,9 +18,9 @@ C Programlama Dili Konu Anlatımı - 1 Videosu :> https://youtu.be/uJD-iz-rm0Q
 
 C Programlama Dili Konu Anlatımı - 2 Videosu :> https://youtu.be/rb-bJ6QTJ0Q
 
-C Programlama Dili Konu Anlatımı - 3 Videosu :> https://youtu.be/JiQepEhOqw0
+C Programlama Dili Konu Anlatımı - 3 Videosu "Fonksiyonlar, Diziler, C Programlama Dili Kütüphaneleri" :> https://youtu.be/JiQepEhOqw0
 
-C Programlama Dili Konu Anlatımı - 4 "C Programlama Dilinde Örnekler" :> https://youtu.be/YQOnF7YSk0c
+C Programlama Dili Konu Anlatımı - 4 Videosu "C Programlama Dilinde Örnekler" :> https://youtu.be/YQOnF7YSk0c
 
 Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb57Damw
 
