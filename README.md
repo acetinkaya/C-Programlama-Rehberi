@@ -396,53 +396,43 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
     
     }
 
-9.7. Kullanıcının Belirlediği Sayı Adedi ile Girilen Sayı Adedinin Karşılaştırılması
+9.7. Kullanıcının Belirlediği Sayı Adedi ile Girilen Sayı Adedinin Karşılaştırılması (while, for ve if yapıları ile)
 
     #include <stdio.h>
     
     int main() 
     {
-        int sayilar[6];                 // 6 elemanlı dizi
+        int sayilar[6];  // 6 elemanlı dizi
         int istenen_adet = 6;
-        int sayi, sayi_adeti = 0;
+        int sayi, i = 0, j = 0;
     
-        printf("6 Adet Sayı Giriniz\n");
-        for (int i = 0; i < istenen_adet; i++) 
+        printf("6 Adet Sayi Giriniz\n");
+    
+        while (i < istenen_adet) 
         {
             printf("%d. sayi: ", i + 1);
             if (scanf("%d", &sayi) == 1) 
             {
-                sayilar[sayi_adeti] = sayi;
-                sayi_adeti++;
+                sayilar[i] = sayi;
+                i++;
             } 
             else 
             {
-                printf("Geçersiz değer girdiniz!\n");
-                while(getchar() != '\n');  // stdin'i temizle
-                i--; // Geçersiz girişte aynı sayıyı tekrar sor
+                printf("Gecersiz deger girdiniz! Lütfen tamsayı giriniz.\n");
+                while (getchar() != '\n'); // stdin temizliği
             }
         }
     
-        printf("Kullanıcıdan Gelen Degerler: ");
-        for (int i = 0; i < sayi_adeti; i++) 
+        printf("Kullanıcıdan Gelen Değerler: ");
+        for (j = 0; j < istenen_adet; j++) 
         {
-            printf("%d ", sayilar[i]);
+            printf("%d ", sayilar[j]);
         }
     
-        printf("\nKullanıcıdan Gelen Sayı Adeti: %d\n", sayi_adeti);
+        printf("\nToplam Gecerli Giris Sayisi: %d\n", istenen_adet);
     
-        if (istenen_adet > sayi_adeti) 
-          { printf("Eksik Sayı Girdiniz\n"); } 
-        else if (istenen_adet < sayi_adeti) 
-          { printf("Fazla Sayı Girdiniz\n"); } 
-        else if (istenen_adet == sayi_adeti) 
-          { printf("Girilen Sayı İstenen Sayı Adeti Kadardır\n"); } 
-        else 
-          { printf("Hata\n"); }
-        
+        return 0;
     }
-   
- 
 
 ----
 
