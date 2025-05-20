@@ -430,8 +430,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
         }
     
         printf("\nToplam Gecerli Giris Sayisi: %d\n", istenen_adet);
-    
-        return 0;
+  
     }
 
 ----
