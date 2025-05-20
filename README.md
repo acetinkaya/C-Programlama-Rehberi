@@ -357,7 +357,6 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 
         for (i = 0; i < 6; i++) 
     	  {
-            printf("%d. sayi: ", i + 1);
             scanf("%d", &sayilar[i]);
             toplam += sayilar[i];
         }
