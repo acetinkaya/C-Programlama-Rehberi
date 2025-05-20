@@ -333,7 +333,6 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
         printf("Lutfen 6 adet tamsayı giriniz:\n");
         for (i = 0; i < 6; i++) 
     	  {
-            printf("%d. sayi: ", i + 1);
             scanf("%d", &sayilar[i]);
         }
         
