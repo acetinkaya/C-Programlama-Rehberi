@@ -22,6 +22,8 @@ C Programlama Dili Konu Anlatımı - 3 Videosu "Fonksiyonlar, Diziler, C Program
 
 C Programlama Dili Konu Anlatımı - 4 Videosu "C Programlama Dilinde Örnekler" :> https://youtu.be/YQOnF7YSk0c
 
+C Programlama Dili Konu Anlatımı - 5 Videosu "C Programlama Dilinde Örnekler" :> https://youtu.be/xrkYyULonas
+
 Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb57Damw
 
 # 📘 Ders İçerikleri:
