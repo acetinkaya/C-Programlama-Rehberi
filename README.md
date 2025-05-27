@@ -421,12 +421,21 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
                 printf("Gecersiz deger girdiniz! Lütfen tamsayı giriniz.\n");
             }
         }
-    
-        printf("Kullanıcıdan Gelen Değerler: ");
-        for (j = 0; j < istenen_adet; j++) 
+
+        if(i == istenen_adet)
         {
-            printf("%d ", sayilar[j]);
+          printf("Girilen Değerler İstenenler ile Aynı ");
+          for (j = 0; j < istenen_adet; j++) 
+          {
+              printf("%d ", sayilar[j]);
+          }
         }
+        else
+        {
+        printf("Girilen Değerler İstenenler ile Aynı Değil");
+        }
+    
+
     
         printf("\nToplam Gecerli Giris Sayisi: %d\n", istenen_adet);
   
