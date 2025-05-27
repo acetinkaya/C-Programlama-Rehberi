@@ -419,7 +419,6 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
             else 
             {
                 printf("Gecersiz deger girdiniz! Lütfen tamsayı giriniz.\n");
-                while (getchar() != '\n'); // stdin temizliği
             }
         }
     
