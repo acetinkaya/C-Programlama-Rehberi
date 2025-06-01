@@ -411,7 +411,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
         while (i < istenen_adet) 
         {
             printf("%d. sayi: ", i + 1);
-            if (scanf("%d", &sayi) == 1) 
+            if (scanf("%d", &sayi))
             {
                 sayilar[i] = sayi;
                 i++;
