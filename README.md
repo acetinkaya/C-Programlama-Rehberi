@@ -24,6 +24,8 @@ C Programlama Dili Konu Anlatımı - 4 Videosu "C Programlama Dilinde Örnekler"
 
 C Programlama Dili Konu Anlatımı - 5 Videosu "C Programlama Dilinde Örnekler" :> https://youtu.be/xrkYyULonas
 
+C Programlama Dili Konu Anlatımı
+
 Bilgisayarda Programlama C Dili Soru Çözüm Videosu :> https://youtu.be/KAMBb57Damw
 
 # 📘 Ders İçerikleri:
