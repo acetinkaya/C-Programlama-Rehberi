@@ -212,7 +212,7 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
     int matris[2][3] = {{1,2,3}, {4,5,6}};
     printf("%d", matris[1][2]); // 6 
 
-7. İşaretçiler - Pointers
+## 7. İşaretçiler - Pointers
 
         int x = 42;            // Normal bir tamsayı değişkeni
         int *p = &x;           // p, x'in adresini tutan gösterici
