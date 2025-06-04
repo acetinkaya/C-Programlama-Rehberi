@@ -116,11 +116,11 @@ C programlama dilinde veri formatlama kuralları, özellikle giriş/çıkış ( 
 
 3.3 Mantıksal Operatörler
     
-    if (a > 0 && b > 0) { printf("Pozitif sayilar\n"); }
+    if (a > 0 && b > 0) { printf("Pozitif sayilar\n"); } // Ve
 
-    if (not1 >= 50 || not2 >= 50) { printf("Ders geçildi.\n"); }
+    if (not1 >= 50 || not2 >= 50) { printf("Ders geçildi.\n"); } // Veya
     
-    if (!aktif) { printf("Kullanıcı pasif.\n"); }
+    if (!aktif) { printf("Kullanıcı pasif.\n"); } // Değil
 
 ## 4. Kontrol Yapıları
 
