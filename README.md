@@ -1,4 +1,4 @@
-# C Programlama Dili Rehberi
+# C Programlama Dili Rehberi - 2025
 
 ![alternatif metin](https://github.com/acetinkaya/C-Programlama-Rehberi/blob/main/kapak2.png)
 
